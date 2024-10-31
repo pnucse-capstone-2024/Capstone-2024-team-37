@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36e12f71.css",
+    "main.js": "/static/js/main.c91ffdfc.js",
+    "static/js/453.76699d40.chunk.js": "/static/js/453.76699d40.chunk.js",
+    "static/media/mongodb.png": "/static/media/mongodb.6170bacefd8a1f69ca74.png",
+    "static/media/springboot.png": "/static/media/springboot.c579a0bc024aa879c771.png",
+    "static/media/sqlite.png": "/static/media/sqlite.4c3c37250fda9ea184f9.png",
+    "static/media/postgresql.png": "/static/media/postgresql.db847842f552638df980.png",
+    "static/media/mysql.png": "/static/media/mysql.a6e182e14c2248364006.png",
+    "static/media/nodejs.png": "/static/media/nodejs.e71346fe0fec16ec5f6e.png",
+    "static/media/php.png": "/static/media/php.1321e83a7b629cc72776.png",
+    "static/media/flask.png": "/static/media/flask.fb7750ef4a5f84734f61.png",
+    "static/media/fastapi.png": "/static/media/fastapi.7802108d9831cdd743bc.png",
+    "static/media/nextjs.png": "/static/media/nextjs.9c33ee60a7da0a0a662c.png",
+    "index.html": "/index.html",
+    "static/media/background.webp": "/static/media/background.7c068d2110b641416290.webp",
+    "main.36e12f71.css.map": "/static/css/main.36e12f71.css.map",
+    "main.c91ffdfc.js.map": "/static/js/main.c91ffdfc.js.map",
+    "453.76699d40.chunk.js.map": "/static/js/453.76699d40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e12f71.css",
+    "static/js/main.c91ffdfc.js"
+  ]
+}
